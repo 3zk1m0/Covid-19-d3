@@ -8,7 +8,8 @@
     "build": "parcel build index.html --log-level 4"
   },
   "dependencies": {
-    "d3": "5.16.0"
+    "d3": "5.16.0",
+    "spin.js": "4.1.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
